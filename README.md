@@ -80,5 +80,5 @@ See also the list of [contributers](https://github.com/argedor/TowiseScalaAPI/gr
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details
+This project is licensed under the MIT License - see the [LICENCE.txt](LICENCE.txt) file for details
 
