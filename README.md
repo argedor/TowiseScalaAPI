@@ -12,7 +12,7 @@ Towise assists you to detect human faces and bodies with using the latest and re
 To add dependecy to build.sbt
 
 ```sh
-libraryDependencies += "com.argedor" %% "towise" % "0.2"
+libraryDependencies += "io.towise" %% "towise" % "0.2"
 ```
 To import your project
 ```scala

@@ -1,8 +1,8 @@
 name := "towise"
 
-version := "0.2"
+version := "0.3"
 
-organization := "com.argedor"
+organization := "io.towise"
 
 scalaVersion := "2.12.8"
 
